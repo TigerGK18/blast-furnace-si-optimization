@@ -1,0 +1,14 @@
+{
+  "bo_suggested": {
+    "EnOxFl": 3621.7808319315373,
+    "CoInSeVa": 665.5000144869413,
+    "HoBlTe": 1239.1963650868431
+  },
+  "bo_predicted_SI": 0.4790215790271759,
+  "feasible_point": {
+    "EnOxFl": 3621.7808,
+    "CoInSeVa": 665.50001,
+    "HoBlTe": 1239.1964
+  },
+  "feasible_predicted_SI": 0.4790215790271759
+}
